@@ -249,21 +249,6 @@ graph TD
 
 ### Star this repository ⭐
 
-## 👥 Community
-
-- 💬 Join our [Discord Server](https://discord.gg/n34tSJ3TBs)
-- 🔗 Connect on [LinkedIn](www.linkedin.com/in/varsha-dewangan-197983256)
-- 🐦 Follow us on [Twitter]( https://x.com/varsha_dew454)
-- 📧 Contact maintainers: varshadewangan1605@gmail.com
-
-### 🌟 Contributors
-
-Thanks to these wonderful people:
-
-<a href="https://github.com/Varsha-1605/SocioSell/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Varsha-1605/SocioSell" />
-</a>
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
